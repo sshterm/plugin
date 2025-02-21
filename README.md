@@ -38,3 +38,11 @@ For any inquiries or to provide feedback, please reach out to us at:
 *Please ensure you are whitelisted in our system to receive prompt responses.*
 
 Join us in building a powerful and secure plugin system that empowers developers and enhances application functionality.
+
+
+Let's join hands and start a new chapter of the plugin system!
+
+Notes on Plugin Development Language and APP WKWebView Injection Protocol
+The main programming language for plugin development is JavaScript.
+For plugins that need to interact with the APP's WKWebView, please follow the injection protocol specified by the APP to ensure seamless integration and proper functionality.
+We provide necessary technical support and guidance to help developers successfully develop and integrate plugins.
